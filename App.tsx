@@ -223,7 +223,7 @@ const App: React.FC = () => {
             <CpuIcon className="text-white w-8 h-8" />
           </div>
           <h1 className="text-4xl font-bold mb-4">Prompt Craft <span className="text-blue-500">AI</span></h1>
-          <p className="text-gray-400 mb-8">Login to access your personalized AI architect dashboard and save your projects.</p>
+          <p className="text-gray-400 mb-8">Login to access your personalized Prompt Craft dashboard and save your projects.</p>
           <button
             onClick={handleLogin}
             className="w-full bg-white text-gray-950 font-bold py-4 rounded-xl hover:bg-gray-100 transition shadow-xl flex items-center justify-center gap-3"

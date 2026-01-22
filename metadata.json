@@ -1,5 +1,5 @@
 {
-  "name": "ArchitectAI",
+  "name": "Prompt Craft AI",
   "description": "An elite AI-powered full-stack application architect that generates production-ready code structures, database schemas, and complete frontend/backend implementations using Gemini 3 Pro.",
   "requestFramePermissions": []
 }
